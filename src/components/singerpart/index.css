@@ -1,0 +1,11 @@
+.singerpart img{
+  width:100%;height: 262px;
+}
+.singerpart .filter{width:100%;height:100%;background:rgba(7, 17, 27, 0.3);}
+.singerpart .back{color: #fff;position: absolute;top: 0;left: 5%;line-height: 40px;}
+.singerpart .main{height:385px ;background: #222;padding: 20px 20px 0 20px ;overflow: auto;}
+
+.singerpart .main li{    height: 64px;font-size: 14px;list-style: none;}
+.singerpart .main h3{color: #fff;font-weight: 400;}
+.singerpart .main p{    margin-top: 4px;
+  color: hsla(0,0%,100%,.3);}

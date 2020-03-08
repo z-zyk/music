@@ -1,0 +1,13 @@
+
+.rank{background: #222222;}
+.context{display: flex;
+  margin: 0 20px;
+  padding-top: 20px;
+  height: 100px;}
+.context img{width: 100px;
+  height: 100px;
+}
+.rank .left{padding: 0;}
+.rank .right{display: flex;flex-direction: column;justify-content: space-around;background: #333;padding: 0 20px;}
+.right li{list-style: none;font-size: 12px;color:rgba(255, 255, 255, 0.3);white-space: nowrap;overflow: hidden;width: 195px;}
+

@@ -1,0 +1,9 @@
+.search{background: #222222;height: 579px;}
+.search .main{
+  margin:0 20px 20px 20px;display: flex;padding: 0 6px;height: 40px;
+}
+.search .main input {    
+  flex:1;
+  border:none;
+  background: #333;
+  border-radius: 6px;color: #fff;}
